@@ -1,0 +1,27 @@
+  
+.photo{          
+    height: 150px;
+    width: 200px;
+    border-style: solid;
+    border-width: 3px;
+    /*display: none;*/ 
+  }
+  
+.albumCover{               
+    height: 100%; /*  mudar poercentagem*/
+    width: 200px;
+    border-style: solid;
+    border-width: 3px;
+    display: none;
+  }
+
+
+  .spaceQuestion{          
+    height: 100px;
+    width: 600px;
+    border-style: solid;
+    border-width: 3px;
+    background-color: white;
+    /*display: none;*/ 
+  }
+  
